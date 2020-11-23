@@ -3,10 +3,10 @@
     <channel>
         <title>DisplayBuddy</title>
         <item>
-            <title>0.0.6</title>
-            <pubDate>Thu, 05 Nov 2020 02:01:53 +0800</pubDate>
+            <title>0.11</title>
+            <pubDate>Thu, 23 Nov 2020 02:01:53 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy%200.0.6.dmg" sparkle:version="1" sparkle:shortVersionString="0.0.6" length="4248190" type="application/octet-stream" sparkle:edSignature="0OwFKe+ZwnWJ/GqdKHE/98L0SpkgnZpHnyxSbSEIGCpeRY7Tp8n/l5305qExD0PEgZP61UKkGHhiq6jFs/rSAQ=="/>
+            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.11.zip" sparkle:version="1" sparkle:shortVersionString="0.11" length="11988515" type="application/octet-stream" sparkle:edSignature="DlRhFKfjCFfJnUWdFb7U7lwLq3NcSuCOoSGIlgNyqPzytSnQArNKNAfh6fnUR+61wCFM9hRJVxwSYTvbAc1UBw=="/>
         </item>
     </channel>
 </rss>
