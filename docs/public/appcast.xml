@@ -8,5 +8,11 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.11.zip" sparkle:version="0.11" sparkle:shortVersionString="0.11" length="11988515" type="application/octet-stream" sparkle:edSignature="DlRhFKfjCFfJnUWdFb7U7lwLq3NcSuCOoSGIlgNyqPzytSnQArNKNAfh6fnUR+61wCFM9hRJVxwSYTvbAc1UBw=="/>
         </item>
+        <item>
+            <title>Version 0.12 (Beta)</title>
+            <pubDate>Tue, 24 Nov 2020 00:06:39 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.12.zip" sparkle:version="0.12" sparkle:shortVersionString="0.12" length="11988440" type="application/octet-stream" sparkle:edSignature="ElADV/y3x04yuXeHuvb+daV9qYFjUrGNoohmNO9D1Rw7ntAEWP//bS8VLxP1ZHcTqRtxPkOoD0/WGqzIDYXxCg=="/>
+        </item>
     </channel>
 </rss>
