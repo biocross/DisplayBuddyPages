@@ -20,8 +20,8 @@
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
-  grid-row-gap: 16px;
-  grid-column-gap: 16px;
+  grid-row-gap: 48px;
+  grid-column-gap: 24px;
 }
 
 body {
@@ -738,7 +738,7 @@ figcaption {
 }
 
 .text-gradient-2 {
-  background-image: linear-gradient(111deg, #5238ff, #a0fbcd);
+  background-image: linear-gradient(168deg, #A259FF, #5412aa);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1140,19 +1140,25 @@ figcaption {
   text-align: center;
 }
 
+.monitor-logo-container {
+  height: auto;
+  width: 150px;
+  justify-self: center;
+}
+
 .button-container {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .button-container.small {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .hero-product-demo {
   position: relative;
-  height: 120vh;
+  height: 85vh;
 }
 
 .product-demo-sticky {
@@ -2913,7 +2919,13 @@ figcaption {
   }
 
   .hero-product-demo {
-    height: 130vh;
+    height: 40vh;
+  }
+
+  .monitor-logo-container {
+    height: auto;
+    width: 100px;
+    justify-self: center;
   }
 
   .product-image-container {
@@ -3115,7 +3127,7 @@ figcaption {
   }
 
   .hero-product-demo {
-    height: 80vh;
+    height: 25vh;
   }
 
   .product-image-container {
