@@ -25,16 +25,5 @@
     <li>Smoother sliders when setting display control values</li>
 </ul>]]></description>
         </item>
-        <item>
-            <title>0.11</title>
-            <pubDate>Mon, 23 Nov 2020 23:15:45 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.10.zip" sparkle:version="1" sparkle:shortVersionString="0.10" length="7246515" type="application/octet-stream" sparkle:edSignature="OeZsMsBXINKUF309S49KwNR74aHaOyWuQEiKLFyvPhklGdcWa2lGrax1V8GlHtMNTIRW4dCu1R91jgWiUR15AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1-0.12.delta" sparkle:version="1" sparkle:shortVersionString="0.11" sparkle:deltaFrom="0.12" length="148658" type="application/octet-stream" sparkle:edSignature="joEPYBM1+rWwWX630Z9dmWGsU/LI6uhw4DevT+JxvnSjn2f44QcfQbTmn8TtukG4kV5SHLa8rqnusc6jxXJZDA=="/>
-                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1-0.13.delta" sparkle:version="1" sparkle:shortVersionString="0.11" sparkle:deltaFrom="0.13" length="215100" type="application/octet-stream" sparkle:edSignature="UMRVz1yMFYtpR2HHuAiWOUQeVFcBYw37wfjv4c/UtCVKMwIAC3Ex3yrEexbCFvl11yygpt4WWK1Sg+rk4tT4BQ=="/>
-                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1-0.14.delta" sparkle:version="1" sparkle:shortVersionString="0.11" sparkle:deltaFrom="0.14" length="358458" type="application/octet-stream" sparkle:edSignature="IuTuEotPZclLOD9xgRfamuA6Bkqp801EhKNRr3BjQfKLywOApvPKRy7X1npIpI/g1x/BzzwZv5o1VUvbzsfHDw=="/>
-            </sparkle:deltas>
-        </item>
     </channel>
 </rss>
