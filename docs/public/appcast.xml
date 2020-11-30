@@ -21,7 +21,7 @@
             <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.10.zip" sparkle:version="1" sparkle:shortVersionString="0.10" length="7246515" type="application/octet-stream" sparkle:edSignature="OeZsMsBXINKUF309S49KwNR74aHaOyWuQEiKLFyvPhklGdcWa2lGrax1V8GlHtMNTIRW4dCu1R91jgWiUR15AQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1-0.13.delta" sparkle:version="1" sparkle:shortVersionString="0.11" sparkle:deltaFrom="0.13" length="215100" type="application/octet-stream" sparkle:edSignature="UMRVz1yMFYtpR2HHuAiWOUQeVFcBYw37wfjv4c/UtCVKMwIAC3Ex3yrEexbCFvl11yygpt4WWK1Sg+rk4tT4BQ=="/>
-                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1-0.12.delta" sparkle:version="1" sparkle:shortVersionString="0.11" sparkle:deltaFrom="0.12" length="148658" type="application/octet-stream" sparkle:edSignature="joEPYBM1+rWwWX630Z9dmWGsU/LI6uhw4DevT+JxvnSjn2f44QcfQbTmn8TtukG4kV5SHLa8rqnusc6jxXJZDA=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1-0.14.delta" sparkle:version="1" sparkle:shortVersionString="0.11" sparkle:deltaFrom="0.14" length="358458" type="application/octet-stream" sparkle:edSignature="IuTuEotPZclLOD9xgRfamuA6Bkqp801EhKNRr3BjQfKLywOApvPKRy7X1npIpI/g1x/BzzwZv5o1VUvbzsfHDw=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -29,6 +29,17 @@
             <pubDate>Wed, 25 Nov 2020 23:50:04 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.13.zip" sparkle:version="0.13" sparkle:shortVersionString="0.13" length="11990288" type="application/octet-stream" sparkle:edSignature="40QfZ6FQ1M1aXH7KZeXAhVx6gdOyexZlhEVjRCh5hewf4B2jM7o5Mdk6GV7oZvQLQTHY/yoUiq8NHyG/REaOCw=="/>
+        </item>
+        <item>
+            <title>0.14</title>
+            <pubDate>Mon, 30 Nov 2020 13:29:57 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.14.zip" sparkle:version="0.14" sparkle:shortVersionString="0.14" length="11991541" type="application/octet-stream" sparkle:edSignature="4z+Gw/seYiELNTtCALrcmeATkkUYsYXDXo/eDKoy6CBAnaV6fQR1MofXovgXJD545krxrfnDpL8bbq9mu1sLCA=="/>
+            <description><![CDATA[<ul>
+    <li>Fix crash when a connected display does not have a name</li>
+    <li>Improve app start performance on Macs with Intel GPUs</li>
+    <li>Smoother sliders when setting display control values</li>
+</ul>]]></description>
         </item>
     </channel>
 </rss>
