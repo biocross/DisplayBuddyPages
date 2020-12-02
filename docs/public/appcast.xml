@@ -25,5 +25,19 @@
     <li>Smoother sliders when setting display control values</li>
 </ul>]]></description>
         </item>
+        <item>
+            <title>0.15</title>
+            <pubDate>Thu, 03 Dec 2020 00:12:30 +0800</pubDate>
+            <description><![CDATA[<ul>
+    <li>Extended Beta period. Enjoy DisplayBuddy!</li>
+</ul>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.15.zip" sparkle:version="0.15" sparkle:shortVersionString="0.15" length="11991519" type="application/octet-stream" sparkle:edSignature="FGT3SDDcRw7Oy32tPVbvCtoWaVq2dEcAeD/K8CA4OjBFb0DKBmeoC5VgXsnnoO/cDew4B8bw2unnWItcIBN+Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy0.15-0.14.delta" sparkle:version="0.15" sparkle:shortVersionString="0.15" sparkle:deltaFrom="0.14" length="88699" type="application/octet-stream" sparkle:edSignature="4AcKshtXb5mOLRPeQLaaPN8d0Vz2icJS/ODj1ptTQxCLqfuFO9Pcx63m0blpmHDyp0qqIDPN1/MhkHUimLopBw=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy0.15-0.13.delta" sparkle:version="0.15" sparkle:shortVersionString="0.15" sparkle:deltaFrom="0.13" length="301484" type="application/octet-stream" sparkle:edSignature="OD6fsJ8acXc/cNlD+6Dup5X+sUzflZlELtBS5/ay7VB9y/OPJ85tfcJLtl3mtca0/0HWZgKoisNh/kMWRhtcCA=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy0.15-0.12.delta" sparkle:version="0.15" sparkle:shortVersionString="0.15" sparkle:deltaFrom="0.12" length="374558" type="application/octet-stream" sparkle:edSignature="mZalXYjozVc1F7uzVVyVRtWeRwxm0lj2bbXfTeaFEI9DOpuTKnJ9NQNJy0G5jggM/KzNdWI2rHSfMp9joW9pCA=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
