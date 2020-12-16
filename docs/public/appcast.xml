@@ -39,5 +39,20 @@
                 <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy0.15-0.12.delta" sparkle:version="0.15" sparkle:shortVersionString="0.15" sparkle:deltaFrom="0.12" length="374558" type="application/octet-stream" sparkle:edSignature="mZalXYjozVc1F7uzVVyVRtWeRwxm0lj2bbXfTeaFEI9DOpuTKnJ9NQNJy0G5jggM/KzNdWI2rHSfMp9joW9pCA=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>0.16</title>
+            <pubDate>Wed, 16 Dec 2020 22:07:00 +0800</pubDate>
+            <description><![CDATA[<ul>
+    <li>Extended the Beta period. Enjoy using DisplayBuddy and please report any issues you find or give feedback!</li>
+</ul>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_0.16.zip" sparkle:version="0.16" sparkle:shortVersionString="0.16" length="11991851" type="application/octet-stream" sparkle:edSignature="wii7Lfa0iDdabXAbE6zxd8SivOc70MudJ4spIhKxRVQ9ug/DeVmYZIZyQ4SAq/iVSxRF60+S6VUpVYT/xmVtCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy0.16-0.15.delta" sparkle:version="0.16" sparkle:shortVersionString="0.16" sparkle:deltaFrom="0.15" length="206068" type="application/octet-stream" sparkle:edSignature="a5HW7DctXnksi49K4TaAtzHmA/fgePXUx7DC6e+galNCDx6Ai9yhE2BdSGkpgCXPwzutPMc4Ul+CG68vzTEoCw=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy0.16-0.14.delta" sparkle:version="0.16" sparkle:shortVersionString="0.16" sparkle:deltaFrom="0.14" length="205268" type="application/octet-stream" sparkle:edSignature="aAkX4srXeu/ujurxiid/Btc8rzpXjrWYEBP5y+6TAdXrPguNXHqYRjs+G6nQHN/BnD/f7Y9JRmbx45P24Q4hBg=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy0.16-0.13.delta" sparkle:version="0.16" sparkle:shortVersionString="0.16" sparkle:deltaFrom="0.13" length="364383" type="application/octet-stream" sparkle:edSignature="dSd5S1nXDzr1oaN+a8mfvZnB66E6AhXInP63urbRULAwsLyzPYiHwcmJwqgJCbM22WSjFWMoayXCpqJvQojPDQ=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy0.16-0.12.delta" sparkle:version="0.16" sparkle:shortVersionString="0.16" sparkle:deltaFrom="0.12" length="416490" type="application/octet-stream" sparkle:edSignature="nhGK56FG+tQLfNf2l7iL2NQcIzOZz21Vs3jiqwlmeIcMyrel40ZFuVXEvuD25SOD0WqAJKnuETrc6dA7p1zYDw=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
