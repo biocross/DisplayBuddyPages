@@ -2879,6 +2879,7 @@ figcaption {
 
   .footer-flex-first {
     padding-right: 0px;
+    padding-bottom: 24px;
   }
 
   .heading-display {
