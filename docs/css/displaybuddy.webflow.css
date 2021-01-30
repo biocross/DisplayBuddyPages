@@ -1143,7 +1143,7 @@ figcaption {
 
 .hero-product-demo {
   position: relative;
-  height: 80vh;
+  min-height: 650px;
 }
 
 .product-demo-sticky {
@@ -1203,7 +1203,7 @@ figcaption {
 
 .customers-panel {
   padding-top: 30px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
 }
 
 .text-holder {
@@ -2472,6 +2472,11 @@ figcaption {
   font-size: 16px;
 }
 
+.text-block {
+  margin-top: 12px;
+  font-size: 10px;
+}
+
 @media screen and (min-width: 1280px) {
   .container {
     max-width: 1280px;
@@ -2479,6 +2484,10 @@ figcaption {
 
   .hero-text {
     font-size: 160px;
+  }
+
+  .hero-product-demo {
+    min-height: 740px;
   }
 
   .product-image-container {
@@ -2521,6 +2530,10 @@ figcaption {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+  }
+
+  .hero-product-demo {
+    min-height: 780px;
   }
 
   .product-image-container {
@@ -2652,6 +2665,10 @@ figcaption {
 
   .card-item-content.large-padding {
     padding: 2em;
+  }
+
+  .hero-product-demo {
+    min-height: 550px;
   }
 
   .product-image-container {
@@ -2950,6 +2967,7 @@ figcaption {
 
   .hero-product-demo {
     height: 50vh;
+    min-height: 400px;
   }
 
   .product-image-container {
@@ -3171,6 +3189,7 @@ figcaption {
 
   .hero-product-demo {
     height: 30vh;
+    min-height: 200px;
   }
 
   .product-image-container {
@@ -3215,7 +3234,7 @@ figcaption {
   }
 
   .text-gradient-small {
-    font-size: 40px;
+    font-size: 26px;
   }
 }
 
