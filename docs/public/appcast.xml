@@ -126,5 +126,21 @@
                 <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.2-0.19.delta" sparkle:version="1.2" sparkle:shortVersionString="1.2" sparkle:deltaFrom="0.19" length="5016889" type="application/octet-stream" sparkle:edSignature="zpAKTk1HGjn0R5tADncpca4NjNBPziLwPu7Hh6S9t+DPMb5FRbvSc1vyTJrJUN3eNOQeb1h7S5LXd741zuREAw=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.3</title>
+            <pubDate>Tue, 13 Apr 2021 23:10:33 +0800</pubDate>
+            <description><![CDATA[<h4>DisplayBuddy 1.3</h4>
+<ul>
+	<li>DisplayBuddy now adds support for your Macbook & iMac displays, as well as other displays manufactured by Apple like the Pro Display XDR & Thunderbolt display.
+</ul>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_1.3.dmg" sparkle:version="1.3" sparkle:shortVersionString="1.3" length="14217857" type="application/octet-stream" sparkle:edSignature="j3Fv4JbEo+tlV5cVeXYR42kKixYzmWghpnpkXmxY8tZ7M09vYxWlIHLp3QCfye/ejtHLWCPQ56SmnMGTHlVtAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.3-1.2.delta" sparkle:version="1.3" sparkle:shortVersionString="1.3" sparkle:deltaFrom="1.2" length="562213" type="application/octet-stream" sparkle:edSignature="NyZ5eWJSAOP6xWSCjBFv6neIPq0+lG7HMWhxs0IerczcpRAHV+Wx644jOHhzhOITMJbPFJwFMH+hvD0/80AZDA=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.3-1.1.delta" sparkle:version="1.3" sparkle:shortVersionString="1.3" sparkle:deltaFrom="1.1" length="2465773" type="application/octet-stream" sparkle:edSignature="4weEZcrPtWVIgOCe5r4pznK8XSbdBZTmFJ1hQN9w6l7nH/Ri7g5/hgJgMpDlp0ueVSAiZq3YU7b/SuJ7eTAoBg=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.3-1.0.delta" sparkle:version="1.3" sparkle:shortVersionString="1.3" sparkle:deltaFrom="1.0" length="2479381" type="application/octet-stream" sparkle:edSignature="O0pFsOAzxIT+sgSjOwY4WNW92Rib7+tpWZvSPtzOxPhdb5sBL3+2jIFq2a5NW2OMuB++leiUSiIASHSXHTZ5Cw=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.3-0.19.delta" sparkle:version="1.3" sparkle:shortVersionString="1.3" sparkle:deltaFrom="0.19" length="5222580" type="application/octet-stream" sparkle:edSignature="B6UE3eXCDeoy5BirrZbgodXnemAtYFF/z6FsIljNUpiBRY/phh2NsM1tPk3knaI8VK3Nypcf+SJJwEpr7bxBBg=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
