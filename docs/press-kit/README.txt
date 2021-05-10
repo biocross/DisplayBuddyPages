@@ -17,8 +17,7 @@ DisplayBuddy supports all Intel based Macs. M1 Macs are not supported (yet) due 
 
 # Pricing
 
-Promotional Launch Price: US $3.99
-Full price: US $7.99
+Price: US $4.99
 
 # Review download + press license
 
