@@ -176,5 +176,33 @@
                 <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.4-0.19.delta" sparkle:version="1.4" sparkle:shortVersionString="1.4" sparkle:deltaFrom="0.19" length="5760375" type="application/octet-stream" sparkle:edSignature="mxb7ysAVjAUwwWg05OHjVxNyL1ljryxgbsjVqk2jj6sq2N7JjeVdIs6aDYpCsUZNQEIOfUbID4mf8C1j7gLgCA=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.5</title>
+            <pubDate>Mon, 24 May 2021 22:59:18 +0800</pubDate>
+            <description><![CDATA[<style>
+	body {
+		font-family: Arial, Helvetica, sans-serif;
+	}
+</style>
+<h4>DisplayBuddy 1.5</h4>
+<p>Thank you for your continuous feedback for DisplayBuddy on M1 Macs</p>
+<ul>
+	<li>DisplayBuddy now has a new icon - Look for the little screen on your menu bar!</li>
+	<li>Fixes bright flashes while switching desktop spaces of M1 Macs when using software mode</li>
+	<li>Fixes presets not updating live in Preferences when added</li>
+</ul>
+
+]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy_1.5.dmg" sparkle:version="1.5" sparkle:shortVersionString="1.5" length="14247593" type="application/octet-stream" sparkle:edSignature="7GC+48xqY2o/ca7cTUy5ZKzFRZcqDNNGSnlLFC5Kn2ZhcdJfoQZU2y/TPp5dWDHewR9OsHmlOreH5cd6IBlYAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.5-1.4.delta" sparkle:version="1.5" sparkle:shortVersionString="1.5" sparkle:deltaFrom="1.4" length="354207" type="application/octet-stream" sparkle:edSignature="ixpqL0sAT8qTPOsiKVpZmfloaLXLe8htIdWqip9Tmz8uAxIvBwNqdTzePVxfcN7h7tBWps7O+C8NRAI6HEvbAg=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.5-1.3.delta" sparkle:version="1.5" sparkle:shortVersionString="1.5" sparkle:deltaFrom="1.3" length="1817144" type="application/octet-stream" sparkle:edSignature="zbpcsOe0PbrcWZi7VvfdZba88kNs0DaWoyVqoykrD8HYTcGkVJ19FFPGCdnq6Hf4lBIaiyudTUu6Q0v1v4bODw=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.5-1.2.delta" sparkle:version="1.5" sparkle:shortVersionString="1.5" sparkle:deltaFrom="1.2" length="1938347" type="application/octet-stream" sparkle:edSignature="RLu62aRB9X+FKqtRF9MPC6PwDGZxipwMGzaEeTY014ZMe5pRmd5dn1DIWYAqMdPyBuwUFKBnqagk+ah7fNYiDg=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.5-1.1.delta" sparkle:version="1.5" sparkle:shortVersionString="1.5" sparkle:deltaFrom="1.1" length="3053322" type="application/octet-stream" sparkle:edSignature="Yog0QE7Fd78jz6Ssqy4RzNMMC/fEwXUZ+q+BHfsfcYpJd6ALkY+curdzoLiJ7JVjMk3D+CUgFptfOarwMvFUAg=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.5-1.0.delta" sparkle:version="1.5" sparkle:shortVersionString="1.5" sparkle:deltaFrom="1.0" length="3054463" type="application/octet-stream" sparkle:edSignature="UZ2MoMvhlInxCi819aGm9RbZQ++kn3Z6ahyQG3Y1OrLCA/ljcJV2eRXrLSqJaIkWtrnh4624SrcZpEWaCEhHCw=="/>
+                <enclosure url="https://biocross.github.io/DisplayBuddyPages/public/DisplayBuddy1.5-0.19.delta" sparkle:version="1.5" sparkle:shortVersionString="1.5" sparkle:deltaFrom="0.19" length="5756729" type="application/octet-stream" sparkle:edSignature="Uxd+zxd9yVEU+KifTYedTdzuk+4LBr90uqk0uBqXFN5gKIhVN929sSGJDsWLmy/d+r7IH26lQy3r4p4QMhVPCA=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
