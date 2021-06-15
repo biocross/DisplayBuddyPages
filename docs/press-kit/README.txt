@@ -6,18 +6,22 @@ DisplayBuddy lets you control external displays connected to your Mac right from
 
 - Control your monitor’s brightness & contrast directly from your Mac menu bar.
 - Control the volume for monitors with built-in speakers.
-- Effortlessly manage multiple displays with ease.
-- Save settings across multiple displays as Presets, and activate them later with a single click!
+- Support for Apple Silicon (M1) Macs using software emulation.
+- Effortlessly manage multiple displays with ease & even sync controls across them.
+- Save settings across displays as Presets, and activate them later with a single click!
 - Looks great in both Light & Dark modes.
-- Supports macOS 10.13+ (High Sierra)
 
 # Compatibility
 
-DisplayBuddy supports all Intel based Macs. M1 Macs are not supported (yet) due to unavailability of the required APIs from Apple. DisplayBuddy will be updated when support does become available.
+DisplayBuddy supports all Intel based Macs. Apple Silicon (M1) Macs are also supported, with the exception of DDC/CI. Supports macOS 10.13+ (High Sierra)
 
 # Pricing
 
-Price: US $4.99
+Promotional Launch Price: US $4.99
+
+Full price: US $9.99
+
+7-day refund guarantee if it doesn’t work.
 
 # Review download + press license
 
@@ -30,4 +34,6 @@ Sid is a developer based in Singapore, he's been making iOS & Mac apps professio
 # Links
 
 Website: https://displaybuddy.app
-Twitter: https://twitter.com/sids7
+Twitter: https://twitter.com/sids7 / https://twitter.com/DisplayBuddy
+Press Kit: https://displaybuddy.app/press
+Email: sids@outlook.com / support@displaybuddy.app
