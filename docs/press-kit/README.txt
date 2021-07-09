@@ -13,13 +13,11 @@ DisplayBuddy lets you control external displays connected to your Mac right from
 
 # Compatibility
 
-DisplayBuddy supports all Intel based Macs. Apple Silicon (M1) Macs are also supported, with the exception of DDC/CI. Supports macOS 10.13+ (High Sierra)
+DisplayBuddy supports all Intel based Macs. Apple Silicon (M1) Macs are also supported, with the exception of DDC/CI control. Supports macOS 10.13+ (High Sierra)
 
 # Pricing
 
-Promotional Launch Price: US $4.99
-
-Full price: US $9.99
+Price: US $8.99
 
 7-day refund guarantee if it doesn’t work.
 
@@ -29,7 +27,7 @@ If you'd like to review DisplayBuddy and haven't received an email with the down
 
 # About the developer
 
-Sid is a developer based in Singapore, he's been making iOS & Mac apps professionally for the past 6 years. DisplayBuddy is his first indie paid app!
+Sid is an indie developer based in Singapore, he's been making iOS & Mac apps professionally for the past 6 years.
 
 # Links
 
